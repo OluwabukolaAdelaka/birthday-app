@@ -1,0 +1,48 @@
+.App {
+  text-align: center;
+  background-color: #f4f4f4;
+  margin: 2rem auto;
+  padding-top: 1rem;
+  min-height: 90vh;
+  width: 25rem;
+  border-radius: 10px;
+  box-shadow: 0 3px 10px rgb(0 0 0 / 0.4);
+}
+
+.title {
+  color: #f28ab2;
+  padding: 0 0 1rem 0;
+}
+
+.container {
+  display: flex;
+  margin: 1rem auto;
+  padding-left: 2rem;
+}
+
+.images {
+  border-radius: 50%;
+}
+
+.details {
+  padding-left: 2rem;
+  text-align: start;
+}
+
+.name {
+  color: rgba(0, 0, 0, 0.733);
+}
+.age {
+  color: rgba(0, 0, 0, 0.671);
+}
+
+.clear-btn {
+  width: 80%;
+  margin-top: 1rem;
+  padding: 10px 15px;
+  background-color: #f28ab2;
+  color: #f4f4f4;
+  border: none;
+  border-radius: 5px;
+  outline: none;
+}
